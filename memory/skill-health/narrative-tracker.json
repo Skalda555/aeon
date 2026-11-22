@@ -1,15 +1,21 @@
 {
   "skill": "narrative-tracker",
-  "last_analyzed": "2026-11-22T16:07:09Z",
-  "quality_score": 4,
-  "assessment": "Complete narrative-tracker brief with transitions, reflexivity, explicit FRONT-RUN/RIDE/FADE/WATCH calls, and a phase map; headline figures and the cited X posts check out against DefiLlama, Santiment, and contemporaneous coverage.",
+  "last_analyzed": "2026-11-22T21:53:27Z",
+  "quality_score": 5,
+  "assessment": "Complete narrative map with explicit position calls and quantitative signals whose specific figures (Anthropic prints, HYPE buybacks, BIS chip licenses, Blockaid counts, DefiLlama category moves, ETF flows, ZEC, Kaito) check out against public sources.",
   "flags": [],
-  "avg_score": 4,
+  "avg_score": 4.5,
   "history": [
     {
       "date": "2026-11-22",
       "score": 4,
       "ts": "2026-11-22T16:07:09Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-22",
+      "score": 5,
+      "ts": "2026-11-22T21:53:27Z",
       "harness": "grok"
     }
   ]
