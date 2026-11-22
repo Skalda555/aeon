@@ -1,17 +1,21 @@
 {
   "skill": "last30",
-  "last_analyzed": "2026-11-22T16:15:31Z",
-  "quality_score": 1,
-  "assessment": "The run failed with a missing-topic usage error and produced no research report.",
-  "flags": [
-    "empty_output"
-  ],
-  "avg_score": 1,
+  "last_analyzed": "2026-11-22T16:45:30Z",
+  "quality_score": 4,
+  "assessment": "Narrative-first 30-day Claude brief with a falsifiable verdict, platform splits, and quotes; spot-checked Polymarket odds, IPO prints, HN thread, METR, and Alpöge/Nielsen sources match live data, so the dense figures read sourced rather than invented.",
+  "flags": [],
+  "avg_score": 2.5,
   "history": [
     {
       "date": "2026-11-22",
       "score": 1,
       "ts": "2026-11-22T16:15:31Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-22",
+      "score": 4,
+      "ts": "2026-11-22T16:45:30Z",
       "harness": "grok"
     }
   ]
