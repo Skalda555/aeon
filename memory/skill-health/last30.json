@@ -1,0 +1,18 @@
+{
+  "skill": "last30",
+  "last_analyzed": "2026-11-22T16:15:31Z",
+  "quality_score": 1,
+  "assessment": "The run failed with a missing-topic usage error and produced no research report.",
+  "flags": [
+    "empty_output"
+  ],
+  "avg_score": 1,
+  "history": [
+    {
+      "date": "2026-11-22",
+      "score": 1,
+      "ts": "2026-11-22T16:15:31Z",
+      "harness": "grok"
+    }
+  ]
+}
