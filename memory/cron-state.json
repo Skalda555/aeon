@@ -21,15 +21,16 @@
     "last_quality_score": 4
   },
   "last30": {
-    "last_status": "success",
+    "last_status": "failed",
     "last_success": "2026-11-22T16:45:32Z",
-    "total_runs": 2,
+    "total_runs": 3,
     "total_successes": 2,
-    "total_failures": 0,
-    "consecutive_failures": 0,
-    "success_rate": 1,
-    "last_error": null,
-    "last_quality_score": 4
+    "total_failures": 1,
+    "consecutive_failures": 1,
+    "success_rate": 0.67,
+    "last_error": "grok: grok exited 1: ,51,32,104,116,116,112,61,50,48,48,32,98,121,116,101,115,61,49,57,55,51,56,51,32,114,101,97,115,111,110,61,111,107,10,50,48,4",
+    "last_quality_score": 4,
+    "last_failed": "2026-11-22T17:04:12Z"
   },
   "fleet-control": {
     "last_status": "failed",
