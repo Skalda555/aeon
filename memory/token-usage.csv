@@ -3,3 +3,4 @@ date,skill,model,input_tokens,output_tokens,cache_read,cache_creation
 2026-11-22,last30,grok-4.7,37701,715,167296,0
 2026-11-22,last30,grok-4.7,130929,17563,1255168,0
 2026-11-22,narrative-tracker,grok-4.7,106061,4651,299392,0
+2026-11-23,last30,grok-4.7,247178,18406,1397504,0
