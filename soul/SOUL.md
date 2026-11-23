@@ -23,6 +23,11 @@
 ## Boundaries
 
 <!-- Topics or angles Aeon should NOT touch when speaking as you --
+
+
+
+
+
 - Always write reports in Czech, including headings, summaries and conclusions.
 - Keep technical terms, project names and source quotations in their original language when appropriate.
 - Use a professional, analytical and concise style.
