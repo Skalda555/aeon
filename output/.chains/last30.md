@@ -1,12 +1,14 @@
-*Last 30 Days - AI Bubble*
+ℹ️ Last 30 Days - S&P500
 
-30d across 5 platforms - 48 sources [LAST30_DEGRADED]
+Last 30 Days - S&P500
 
-Verdict: Credit desks, Reddit, and skeptic accounts already treat the financing loop as broken, while HN's top essay and Polymarket still refuse the word burst (2026 downturn contract 39.6% YES after a 15-point drop in a day).
+30d across 5 platforms - 52 sources [LAST30_DEGRADED]
 
-Top narrative: Credit pulled the bid before the equity tape admitted a pop (X, Reddit, HN, Web, ~36k likes plus the 165-point pension thread)
-Sentiment split: X alarmed / Reddit canary / HN systemic / Web cautious (Forrester health still green at 79.1)
+Verdict: The index did not correct because earnings failed; it corrected because one leadership headline was allowed to reprice a cap-weighted book that had already compressed its multiple from 23.3x to 17.3x, and Monday's +4.7% bounce put 34% of the day's return back on a single name.
 
-Cold run, baseline written. Reddit JSON blocked; recovered via web search.
+Top narrative: A 33-day, 11.6% correction that one CEO headline undid in a session (Reddit, X, HN, Web, ~48k engagement)
+Sentiment split: Reddit mixed / X bullish on the bounce and skeptical on durability / HN skeptical / Web cautious
 
-Report: output/articles/last30-ai-bubble-2026-11-23.md
+Cold run, baseline written.
+
+Report: output/articles/last30-s-p500-2026-11-24.md

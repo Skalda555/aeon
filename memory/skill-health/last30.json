@@ -1,10 +1,10 @@
 {
   "skill": "last30",
-  "last_analyzed": "2026-11-22T16:45:30Z",
+  "last_analyzed": "2026-11-24T14:45:40Z",
   "quality_score": 4,
-  "assessment": "Narrative-first 30-day Claude brief with a falsifiable verdict, platform splits, and quotes; spot-checked Polymarket odds, IPO prints, HN thread, METR, and Alpöge/Nielsen sources match live data, so the dense figures read sourced rather than invented.",
+  "assessment": "Substantive cross-platform 30-day narrative with a clear verdict, ranked stories, quotes, and links; core levels, dates, and citations check out, with one non-resolving tweet ID and a degraded-run note.",
   "flags": [],
-  "avg_score": 2.5,
+  "avg_score": 3,
   "history": [
     {
       "date": "2026-11-22",
@@ -16,6 +16,12 @@
       "date": "2026-11-22",
       "score": 4,
       "ts": "2026-11-22T16:45:30Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-24",
+      "score": 4,
+      "ts": "2026-11-24T14:45:40Z",
       "harness": "grok"
     }
   ]
