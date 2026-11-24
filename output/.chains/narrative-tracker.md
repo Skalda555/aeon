@@ -1,43 +1,38 @@
 ℹ️ Narrative Tracker
 
-*Narrative Tracker - 2026-11-22*
+*Narrative Tracker - 2026-11-24*
 
 TRANSITIONS
-• NEW: Jensen Huang exit still the AI tape - 10 days on, board will not reinstate; stock shock is the narrative - https://x.com/AIPulseNewsX/status/2124619362082693525
-• NEW: AI-chip export / diversion - BIS remote-access rule + House license dump (879,868 chips approved) - https://x.com/CapObservHQ/status/2123323245374144625
-• NEW: Revenue-accruing perp DEXs (HYPE) - $75.9M buybacks / 30d, price still not tracking accrual - https://x.com/oxunify/status/2123529607525843257
-• NEW: BTC post-adoption stall - quantum + forced-seller cope on a weekend - https://x.com/ManaMoonNFT/status/2123999839482700086
-• PROMOTED: Privacy Emerging → Rising - selective-disclosure / ZEC ETF tape, not just cypherpunk
-• PROMOTED: GTA VI Fading → Peak (Solana flood) - launch-day spam is the story now, not a dead 48h cash-in
-• DEMOTED: Solana TradFi rail → default narrative-token chain - DTCC/ICE "explores" gone; spam-chain take saturating
-• DEAD: Stablecoin payments as the product; frontier-model power shift; plumbing-vs-candle; FAA grounding; DePIN hardware; Bittensor emission-selling
+• NEW: Nvidia reinstates Jensen - board vote Nov 22, announced Nov 23; Kalshi had return at ~10-17% - https://x.com/Kalshi/status/2125017804965343681
+• NEW: BTC extreme-fear drawdown - ~$58-62k, F&G ~11, ~20-25% off Oct ATH; IBIT -$544.7M on Nov 20 - https://x.com/japhetd871/status/2125010503399555094
+• PROMOTED: Privacy Rising → Peak - selective-disclosure bid cooled to a niche ZEC tape
+• DEMOTED: HYPE/perp DEXs Rising → Peak - unlock scare is the story; DefiLlama perps -18.86%
+• DEMOTED: AI agents Rising → flat - still growing, no fee proof
+• DEAD: Anthropic IPO hangover; GTA VI Solana flood; AI-chip export controls; AI valuation unwind; Solana spam-chain; memecoin fatigue as its own thread
 
 REFLEXIVITY ALERT
-• GTA VI / Solana - thousands of unofficial tokens in hours; Blockaid flagged 8,800+ of 20,000+ as spam or malicious. The launch is the product.
-• HYPE buybacks - $75.9M / 30d (+14% vs prior 30d) and ~$14.9B mcap, price ~$60-63 vs Sept ATH ~$98. Accrual is not the bid.
-• Anthropic IPO - social leaderboard is the equity fade itself (opened $111.50, closed $97.17, day-2 low $83.05 vs $83 IPO).
-• DefiLlama (calibration, not a source): every category red. RWA -2.56% ($56.0B) relative winner; AI -12.62% ($17.4B); perps -19.96%; memes -26.27%; prediction markets -59.41% ($2.39B). Price is not confirming the social tape.
+• Jensen return - Kalshi "next Nvidia CEO" was ~10-17% Yes; Sunday size printed before the filing. Story moved the book, then the stock (~+20-30%). https://news.kalshi.com/p/nvidia-reinstates-jensen-huang-as-chief-executive-perpetual-futures-surge
+• HYPE unlock calendars - CoinGlass models 14.18M HYPE (~$889M) on Nov 29; team’s early-Nov print was ~180k HYPE (~$15M). The model is the sell pressure.
+• DefiLlama (calibration): RWA -5.27% ($55.70B) relative winner; AI -6.03% ($17.57B); perps -18.86% ($18.41B); memes -25.31% ($20.25B); SOL -29.86%; prediction markets -61.06% ($2.32B). Price still not confirming the social tape.
 
 POSITIONS
-• FRONT-RUN: none. Privacy lost the contrarian gap (now consensus selective-disclosure). No new low-mindshare + high-velocity edge.
-• RIDE: Revenue-accruing perp DEXs (3 ↑, Mixed) - @oxunify @SunlitCapital @USronaldcarter - fee buybacks collapse with volume; price has not tracked net accrual
-• RIDE: AI agents as on-chain user (4 →, Bull) - @1Web3Empire @Cryptoayuush @Cryptfancier - most "agents" are prompted bots with a wallet
-• RIDE: RWA working capital (4 →, Mixed) - @SunlitCapital @NofinityCom @ExitTheIllusion - wrapper around off-chain legal claims; chain is not the settlement layer
-• FADE: Anthropic IPO hangover (5 ↓, Cope) - @dose_the_online @TechDeckNews @thenation - debut faded to the IPO price; wrappers import the unwind
-• FADE: Jensen / Nvidia leadership shock (5 →, Cope) - @AIPulseNewsX @MACH37cyber @Mont_Jiang - backlog does not vanish with one executive
-• FADE: GTA VI Solana flood (4 ↓, Cope) - @cryptoadar @michczy @Ging1y - cultural event does not stick; promoters already in the next ticker
-• FADE: BTC/ETH ETF outflow flush (4 →, Bear) - prior @QuintenFrancois; week ~$1.47B, IBIT -$541M on Nov 19 - de-grossing, not a weekend air pocket
-• WATCH: Privacy / selective disclosure (3 ↑, Mixed) - @SunlitCapital @USronaldcarter @SachinHMx - banks want audit keys; ZEC already repriced (~$790 vs Sept ~$1,684)
-• WATCH: AI-chip export controls (4 →, Mixed) - @CapObservHQ @FPRI @AIPulseNewsX - remote compute and third-country leasing already bypass shipment bans
-• WATCH: AI/tech valuation unwind (4 →, Bear) - @Rambler2025 @rondoanalysis - multiple reset on booked capex, not proof demand died
-• WATCH: Memecoin fatigue (4 →, Cope) - @TheMadHatterOnX @Corey_Ross81 - same accounts calling fatigue are shilling the next ticker
-• WATCH: Solana narrative-token chain (4 →, Mixed) - @0xLordD @Mindset_Maxi @NofinityCom - speed accelerates spam, not durable capital
+• FRONT-RUN: Stablecoin payment rails (2 ↑↑, Mixed) - @Alienx1312481 @GETH_BTC - Circle/Tether already intermediate the flow; grants are not volume - https://x.com/Alienx1312481/status/2125022772455784929
+• RIDE: RWA tokenization (4 →, Mixed) - @FrankLambeek @StellarDataFeed - much of the TVL is relabeled stock, not new settlement
+• RIDE: Revenue-generating DeFi (3 ↑, Mixed) - @kebilanuvy @MyCryptoFortune - fees are pro-cyclical; a volume drought hits harder than the framing
+• FADE: Jensen reinstatement (5 ↑↑, Cope) - @Kalshi @CryptoHayes @RepJeffries - leadership theater does not settle AI capex ROI
+• FADE: BTC extreme-fear bounce (5 →, Cope) - @0x_Agency @japhetd871 - ETF outflows and broken HTF supports can keep oversold from becoming a bid
+• FADE: On-chain perps / HYPE (4 ↓, Mixed) - @defi_genx @LekimXBT - modeled unlocks outweigh fee buybacks until the Discord print lands
+• WATCH: Privacy / ZEC (3 ↓, Mixed) - @the_hodlcrew @FrankLambeek - privacy is optional; exchanges have delisted this class before
+• WATCH: AI wrapper shakeout (3 ↑, Bear) - @niccolox @guillermoflor - a few vertical apps can still compound
+• WATCH: Solana memecoin cluster (4 →, Cope) - @0x_Agency @incognitochucks - bursts rotate in hours
 
 MAP
-Emerging: (none that clear the bar)
-Rising: Privacy, HYPE/perp DEXs
-Peak: Anthropic IPO, Jensen/Nvidia, ETF flush, GTA VI flood, memecoins, export controls, AI valuation unwind, Solana spam-chain
-Fading: GTA VI as a 48h cultural cash-in (absorbed into the flood)
-Calibration: Kaito Pre-TGE Polymarket ~34.86% is a rolling board, absent from this 3-day X sample. Do not treat as a fresh narrative.
+Emerging: Stablecoin rails
+Rising: RWA, revenue DeFi, AI wrapper shakeout
+Peak: Jensen return, BTC fear, HYPE/perps, SOL memes, privacy
+Fading: Anthropic IPO, GTA VI flood, export controls, AI valuation unwind
+Calibration: Kaito info-markets Polymarket ~85.7% is a rolling board, absent from this 3-day X sample.
+
+🔗 https://defillama.com/narrative-tracker
 
 🔗 https://defillama.com/narrative-tracker

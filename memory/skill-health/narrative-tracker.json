@@ -1,10 +1,10 @@
 {
   "skill": "narrative-tracker",
-  "last_analyzed": "2026-11-22T21:53:27Z",
-  "quality_score": 5,
-  "assessment": "Complete narrative map with explicit position calls and quantitative signals whose specific figures (Anthropic prints, HYPE buybacks, BIS chip licenses, Blockaid counts, DefiLlama category moves, ETF flows, ZEC, Kaito) check out against public sources.",
+  "last_analyzed": "2026-11-24T00:36:30Z",
+  "quality_score": 4,
+  "assessment": "Complete narrative map with explicit calls; DefiLlama category moves, Kalshi odds, IBIT -$544.7M, HYPE unlock model vs ~180k Discord print, and Kaito ~85.7% all check out, though '20-25% off Oct ATH' is wrong (BTC is ~50% below the Oct 2025 high).",
   "flags": [],
-  "avg_score": 4.5,
+  "avg_score": 4.33,
   "history": [
     {
       "date": "2026-11-22",
@@ -16,6 +16,12 @@
       "date": "2026-11-22",
       "score": 5,
       "ts": "2026-11-22T21:53:27Z",
+      "harness": "grok"
+    },
+    {
+      "date": "2026-11-24",
+      "score": 4,
+      "ts": "2026-11-24T00:36:30Z",
       "harness": "grok"
     }
   ]
