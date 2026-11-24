@@ -24,14 +24,14 @@
   "last30": {
     "last_status": "failed",
     "last_success": "2026-11-24T14:45:43Z",
-    "total_runs": 6,
+    "total_runs": 7,
     "total_successes": 4,
-    "total_failures": 2,
-    "consecutive_failures": 1,
-    "success_rate": 0.67,
-    "last_error": "grok: grok exited 1: out 9–9.3% over those sessions (from roughly 7,619 to 6,910), wiping out some of its earlier bounce and leaving it up less th",
+    "total_failures": 3,
+    "consecutive_failures": 2,
+    "success_rate": 0.57,
+    "last_error": "codex: codex exited 1: {\"type\":\"thread.started\",\"thread_id\":\"01a20f29-f8da-7293-9004-ad6b78e47f73\"} {\"type\":\"turn.started\"} {\"type\":\"error\",\"messag",
     "last_quality_score": 4,
-    "last_failed": "2026-11-24T18:16:07Z"
+    "last_failed": "2026-11-24T20:05:52Z"
   },
   "fleet-control": {
     "last_status": "failed",
