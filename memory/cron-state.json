@@ -45,14 +45,14 @@
     "last_error": "grok: grok needs auth: run 'grok login' or set XAI_API_KEY"
   },
   "narrative-convergence": {
-    "last_status": "dispatched",
-    "last_failed": "2026-11-24T19:57:08Z",
-    "total_runs": 14,
+    "last_status": "failed",
+    "last_failed": "2026-11-24T20:53:44Z",
+    "total_runs": 15,
     "total_successes": 0,
-    "total_failures": 14,
-    "consecutive_failures": 14,
+    "total_failures": 15,
+    "consecutive_failures": 15,
     "success_rate": 0,
-    "last_error": "grok: grok needs auth: run 'grok login' or set XAI_API_KEY",
+    "last_error": "codex: codex exited 1: {\"type\":\"thread.started\",\"thread_id\":\"01a20f55-ced5-7182-a00c-a378bb47af05\"} {\"type\":\"turn.started\"} {\"type\":\"error\",\"messag",
     "last_dispatch": "2026-11-24T20:52:53Z"
   }
 }
