@@ -25,14 +25,14 @@
   "last30": {
     "last_status": "failed",
     "last_success": "2026-11-24T14:45:43Z",
-    "total_runs": 8,
+    "total_runs": 9,
     "total_successes": 4,
-    "total_failures": 4,
-    "consecutive_failures": 3,
-    "success_rate": 0.5,
-    "last_error": "codex: codex exited 1: {\"type\":\"thread.started\",\"thread_id\":\"01a20f44-8887-7353-9e1c-236447413c70\"} {\"type\":\"turn.started\"} {\"type\":\"error\",\"messag",
+    "total_failures": 5,
+    "consecutive_failures": 4,
+    "success_rate": 0.44,
+    "last_error": "codex: codex exited 1: {\"type\":\"thread.started\",\"thread_id\":\"01a21199-0e65-7882-8811-0f291f88083b\"} {\"type\":\"turn.started\"} {\"type\":\"error\",\"messag",
     "last_quality_score": 4,
-    "last_failed": "2026-11-24T20:34:53Z"
+    "last_failed": "2026-11-25T07:26:27Z"
   },
   "fleet-control": {
     "last_status": "failed",
