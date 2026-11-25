@@ -10,7 +10,7 @@
     "last_error": "claude: Failed to authenticate: OAuth token revoked. Please log in again or contact your administrator."
   },
   "narrative-tracker": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_success": "2026-11-24T00:36:33Z",
     "total_runs": 4,
     "total_successes": 3,
@@ -19,7 +19,7 @@
     "success_rate": 0.75,
     "last_error": "codex: codex exited 1: {\"type\":\"thread.started\",\"thread_id\":\"01a20f55-aefd-7760-9a89-9d7e4404c0f6\"} {\"type\":\"turn.started\"} {\"type\":\"error\",\"messag",
     "last_quality_score": 4,
-    "last_dispatch": "2026-11-24T20:52:53Z",
+    "last_dispatch": "2026-11-25T04:11:09Z",
     "last_failed": "2026-11-24T20:53:39Z"
   },
   "last30": {
